@@ -29,9 +29,7 @@ Ensure you have the following installed:
 Create the necessary MySQL databases:
 
 ```sql
-CREATE DATABASE admin;
-CREATE DATABASE cars;
-CREATE DATABASE products; -- Add this line for the product database
+CREATE DATABASE products;
 
 -- Create products table
 CREATE TABLE products (
