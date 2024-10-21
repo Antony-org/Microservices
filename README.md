@@ -6,7 +6,7 @@ A project demonstrating microservices architecture using Spring Cloud components
 
 - **Antony Boutros**
 - **Abdulmajeed Mohamed**
-- **Ahmed Haroun**
+- **Ahmed Ragab Haroun**
 - **Ahmed Mandour**
 
 ## 🛠️ Prerequisites
