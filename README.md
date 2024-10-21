@@ -27,7 +27,7 @@ Ensure you have the following installed:
 ### Step 2: Set Up Databases
 
 Create the necessary MySQL databases:
-
+check for databse configs, username, and password
 ```sql
 CREATE DATABASE products;
 
