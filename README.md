@@ -54,7 +54,11 @@ You can run Redis using Docker with the following command:
 ```bash
 docker run --name redis -d -p 6379:6379 redis
 ```
-## Gateway API:
+
+## EurekaServer:
+mvn spring-boot:run
+
+## Gateway:
 mvn spring-boot:run
 
 ## Spring-Cloud (user-service):
@@ -68,6 +72,7 @@ Use Postman to send requests and test the application. Example endpoints:
 
 User Service: http://localhost:8080/api/users
 Product Service: http://localhost:8080/api/products
+
 🔄 Checking for Updates
 To check for any updates to the Redis image, you can run the following command:
 
